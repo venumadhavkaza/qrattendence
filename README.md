@@ -4,8 +4,9 @@ Created an android application with Firebase at its backend to alleviate the pro
 Build Specifications (Initial Commit) :
 1. Added Firebase Authentication.
 2. Added lottie animations wherever possible.
-3. Generate and Scan QR Codes for attendance.
-4. Generates an EXCEL SHEET with the list of the Attendees that got scanned.
+3. Fetches and updates Firebase real time Database entries.
+4. Generate and Scan QR Codes for attendance.
+5. Generates an EXCEL SHEET with the list of the Attendees that got scanned.
 
 Future Changes:
 1. Planning to add multi screen support(added soon).
