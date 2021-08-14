@@ -1,4 +1,4 @@
-# qrattendence initial build
+# Qrattendence initial build
 Created an android application with Firebase at its backend to alleviate the process of taking the attendance, making it more fool-proof and secure using QR codes making it easily available for verification through automatically generated excel sheets and Database entries.
 
 Build Specifications (Initial Commit) :
