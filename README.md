@@ -2,6 +2,8 @@
 ![WhatsApp Image 2021-08-14 at 8 55 36 AM (1)](https://user-images.githubusercontent.com/83460366/129432817-397bf5a6-3e73-400b-a8d8-07c98bd3c762.jpeg)
 ![WhatsApp Image 2021-08-14 at 8 55 37 AM](https://user-images.githubusercontent.com/83460366/129432826-1cc26b1b-22e2-41f1-bd07-1bfa2c2d01b2.jpeg)
 ![WhatsApp Image 2021-08-14 at 8 58 00 AM](https://user-images.githubusercontent.com/83460366/129432862-1751fa63-e1a5-4d07-85ba-af481cedcda5.jpeg)
+![WhatsApp Image 2021-08-14 at 8 55 37 AM (2)](https://user-images.githubusercontent.com/83460366/129432898-f63aaff8-b5d1-4f32-bd76-ce2daa4cff09.jpeg)
+![WhatsApp Image 2021-08-14 at 8 55 38 AM](https://user-images.githubusercontent.com/83460366/129432903-3fb803e7-e70b-4cb6-8a08-e5eb14a12177.jpeg)
 
 
 # Qrattendence initial build
