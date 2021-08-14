@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189303473839",
+    "project_id": "qrattend-1e59e",
+    "storage_bucket": "qrattend-1e59e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189303473839:android:b15208564e42ee1f07765a",
+        "android_client_info": {
+          "package_name": "com.example.qrattendence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189303473839-28acdj3073mjl019iq61o36eargbbu54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoK_HatTFBTEtT5Cw6D19PxHyz1sgsCfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189303473839-28acdj3073mjl019iq61o36eargbbu54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

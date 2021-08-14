@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">qrattendence</string>
+    <string name="scan">scan</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+
+
+    <string name="enter_email">Enter email</string>
+    <string name="title_activity_qrgen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="password">Password</string>
+
+</resources>
